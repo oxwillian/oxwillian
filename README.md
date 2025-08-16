@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there Willian 👋
+🎓 Estudante de Ciência da computação
+💻 Desenvolvedor em Formação
+🚀 Aprendendo Python, JavaScript e Banco de Dados 
 <!--
 **oxwillian/oxwillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
