@@ -16,5 +16,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun 🌟 Sobre mim
+
+🚀 Em constante evolução no mundo da programação
+📚 Sempre curiosa para aprender novas tecnologias
+🤝 Aberta a colaborar em projetos para ganhar experiência
+📊 Estatísticas do GitHub
+
+Estatísticas GitHub Linguagens mais usadas
