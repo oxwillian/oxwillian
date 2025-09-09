@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 🤝 Aberta a colaborar em projetos para ganhar experiência
 📊 Estatísticas do GitHub
 
-Estatísticas GitHub Linguagens mais usadas
+  
+ 
