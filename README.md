@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🚀 Em constante evolução no mundo da programação
 📚 Sempre curiosa para aprender novas tecnologias
 🤝 Aberta a colaborar em projetos para ganhar experiência
-📊 Estatísticas do GitHub
+📊 Estatísticas do GitHub. 
 
   
  
